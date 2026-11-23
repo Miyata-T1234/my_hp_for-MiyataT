@@ -148,6 +148,10 @@ body {
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.06);
 }
 
+.profile-card.full-width {
+  grid-template-columns: 1fr;
+}
+
 .profile-card h3 {
   margin-top: 0;
   font-size: 28px;
